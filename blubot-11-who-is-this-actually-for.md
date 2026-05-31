@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: article
 title: "Blubot 11: Who Is This Actually For?"
 ---
 

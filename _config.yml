@@ -1,5 +1,7 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: kitian616/jekyll-TeXt-theme
 title: Blubot by Aidan Tjon
+text_skin: forest
+text_highlight_theme: tomorrow
 
 plugins:
   - jekyll-remote-theme
