@@ -26,7 +26,7 @@ So the argument I actually believe is pretty simple. Most home gardens don't fai
 
 <figure>
   <img src="{{ site.baseurl }}/images/picking-strawberries.jpeg" alt="Picking strawberries">
-  <figcaption>FarmBot pricing</figcaption>
+  <figcaption>Source: my backyard</figcaption>
 </figure>
 
 **The part I need to be honest about**
