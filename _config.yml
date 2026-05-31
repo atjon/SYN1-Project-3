@@ -1,9 +1,7 @@
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: daattali/beautiful-jekyll@master
 title: Blubot by Aidan Tjon
-text_skin: forest
-text_highlight_theme: tomorrow
+author: Aidan Tjon
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-include-cache

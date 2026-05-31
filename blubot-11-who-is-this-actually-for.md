@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Blubot 11: Who Is This Actually For?"
 ---
 
