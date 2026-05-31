@@ -10,7 +10,7 @@ This post is a little different from the others. For the last ten posts, I've sh
 Here's something I never said back in post one. The first version of this idea wasn't about climate change or food access. It was about my grandma. I wanted to build something that would let her keep growing food without it being so much work. That's really where Blubot started. Everything else came after.
 
 <figure>
-  <img src="/images/green-plant-on-robot.png" alt="Raised bed before construction">
+  <img src="{{ site.baseurl }}/images/green-plant-on-robot.png" alt="Raised bed before construction">
   <figcaption>Source: my backyard</figcaption>
 </figure>
 
