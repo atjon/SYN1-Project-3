@@ -14,7 +14,7 @@ Here's something I never said back in post one. The first version of this idea w
   <figcaption>Source: my backyard</figcaption>
 </figure>
 
-But somewhere along the way, I started calling Blubot a climate project, and that's a much bigger claim than "I built a robot for my grandma." So I went and did some research to see if that claim actually held up. Here's what I found.
+It's been almost a full three years since I started Blubot and somewhere along the way, I started calling Blubot a climate project, and that's a much bigger claim than "I built a robot for my grandma." So I went and did some research to see if that claim actually held up. Here's what I found.
 
 **Why growing your own food matters**
 
@@ -24,7 +24,10 @@ The second thing is about access, and this is the part I care about most. About 
 
 So the argument I actually believe is pretty simple. Most home gardens don't fail because people don't care. They fail because people forget to water, or overwater, or go on a trip, or just don't know what a plant needs. If you can automate that part and make it cheap, you take away the main reason gardens die. That's what Blubot is for.
 
-FarmBot pricing
+<figure>
+  <img src="{{ site.baseurl }}/images/picking-strawberries.jpeg" alt="Picking strawberries">
+  <figcaption>FarmBot pricing</figcaption>
+</figure>
 
 **The part I need to be honest about**
 
