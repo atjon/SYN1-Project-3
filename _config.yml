@@ -1,2 +1,7 @@
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
 title: Blubot by Aidan Tjon
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-include-cache
