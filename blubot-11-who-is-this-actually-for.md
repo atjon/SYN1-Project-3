@@ -10,6 +10,7 @@ This post is a little different from the others. For the last ten posts, I've sh
 Here's something I never said back in post one. The first version of this idea wasn't about climate change or food access. It was about my grandma. I wanted to build something that would let her keep growing food without it being so much work. That's really where Blubot started. Everything else came after.
 
 ![Raised bed before construction](/images/green-plant-on-robot.png)
+*Source: my backyard*
 
 But somewhere along the way, I started calling Blubot a climate project, and that's a much bigger claim than "I built a robot for my grandma." So I went and did some research to see if that claim actually held up. Here's what I found.
 
