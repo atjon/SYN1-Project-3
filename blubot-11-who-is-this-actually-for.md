@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Blubot 11: Who Is This Actually For?"
 ---
 

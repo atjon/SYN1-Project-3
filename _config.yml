@@ -1,7 +1,2 @@
-remote_theme: daattali/beautiful-jekyll@master
 title: Blubot by Aidan Tjon
 author: Aidan Tjon
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed

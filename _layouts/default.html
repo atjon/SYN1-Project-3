@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Georgia', serif;
+      background: #f7f5f0;
+      color: #2b2b2b;
+      line-height: 1.8;
+    }
+
+    header {
+      background: linear-gradient(135deg, #2d6a4f 0%, #40916c 50%, #74c69d 100%);
+      padding: 60px 24px 48px;
+      text-align: center;
+    }
+
+    header .site-name {
+      font-family: 'Georgia', serif;
+      font-size: 13px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #b7e4c7;
+      margin-bottom: 20px;
+    }
+
+    header h1 {
+      font-size: clamp(1.8rem, 5vw, 3rem);
+      color: #ffffff;
+      font-weight: normal;
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.25;
+    }
+
+    .content-wrap {
+      max-width: 720px;
+      margin: 56px auto;
+      padding: 0 24px 80px;
+    }
+
+    .content-wrap h1 { display: none; }
+
+    .content-wrap h2 {
+      font-size: 1.4rem;
+      color: #2d6a4f;
+      margin: 2.5rem 0 0.75rem;
+      font-weight: bold;
+    }
+
+    .content-wrap p {
+      margin-bottom: 1.4rem;
+      font-size: 1.05rem;
+    }
+
+    .content-wrap a {
+      color: #40916c;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+
+    .content-wrap a:hover { color: #1b4332; }
+
+    .content-wrap strong { color: #1b4332; }
+
+    .content-wrap blockquote {
+      border-left: 4px solid #74c69d;
+      padding: 12px 20px;
+      margin: 1.5rem 0;
+      background: #e9f5ee;
+      border-radius: 0 6px 6px 0;
+      font-style: italic;
+      color: #2d6a4f;
+    }
+
+    footer {
+      background: #1b4332;
+      color: #74c69d;
+      text-align: center;
+      padding: 24px;
+      font-size: 0.85rem;
+      letter-spacing: 1px;
+    }
+
+    footer a { color: #95d5b2; }
+
+    @media (max-width: 600px) {
+      header { padding: 40px 20px 32px; }
+      .content-wrap { margin: 32px auto; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="site-name">{{ site.title }}</div>
+    <h1>{{ page.title }}</h1>
+  </header>
+  <div class="content-wrap">
+    {{ content }}
+  </div>
+  <footer>
+    {{ site.author }} &mdash; <a href="https://codehobbits.com/bluebot-by-aidan-tjon-2025/">Blubot Series</a>
+  </footer>
+</body>
+</html>
