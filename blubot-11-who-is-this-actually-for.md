@@ -1,7 +1,7 @@
 ---
-
-## layout: default
+layout: default
 title: "Blubot 11: Who Is This Actually For?"
+---
 
 This is the eleventh post in the series about my project, Blubot, a robot that takes care of your raised bed for you. With Blubot, I'm on a mission to make gardening easy, space efficient, and low cost, so anyone, anywhere can start a garden. Check out the [table of contents here](https://codehobbits.com/bluebot-by-aidan-tjon-2025/).
 
@@ -47,11 +47,9 @@ A robot isn't going to fix the food system. But making good food a little easier
 
 Keep Growing!
 
----
-
 **Works Cited**
 
-Algert, Susan, et al. "Urban Gardens Improve Food Security." *University of California*, 8 Oct. 2021, [www.universityofcalifornia.edu/news/urban-gardens-improve-food-security](http://www.universityofcalifornia.edu/news/urban-gardens-improve-food-security).
+Algert, Susan, et al. "Community and Home Gardens Increase Vegetable Intake and Food Security of Residents in San Jose, California." *California Agriculture*, vol. 70, no. 2, 2016, pp. 77–82, [californiaagriculture.org/article/108832-community-and-home-gardens-increase-vegetable-intake-and-food-security-of-residents-in-san-jose-california](https://californiaagriculture.org/article/108832-community-and-home-gardens-increase-vegetable-intake-and-food-security-of-residents-in-san-jose-california).
 
 Annie E. Casey Foundation. "Food Deserts in America: Understanding the Impact on Communities with Limited Food Access." *The Annie E. Casey Foundation*, 20 July 2025, [www.aecf.org/blog/food-deserts-in-america](http://www.aecf.org/blog/food-deserts-in-america).
 
