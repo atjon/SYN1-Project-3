@@ -7,7 +7,10 @@ This is the eleventh post in the series about my project, Blubot, a robot that t
 
 This post is a little different from the others. For the last ten posts, I've shown you how I built Blubot, from the first measurements to building a team to the week I spent calibrating the z-axis. In this one, I want to step back and talk about why I built it, and be honest about what it actually does and doesn't do.
 
-Source: my backyard
+<figure>
+  <img src="{{ site.baseurl }}/images/green-plant-on-robot.png" alt="Raised bed before construction">
+  <figcaption>Source: my backyard</figcaption>
+</figure>
 
 It's been almost a full two years since I started Blubot. Across those two years, my voice, outlook, and experiences have changed drastically. I've tried to emulate my past voice here in this post, to keep it consistent with what you are used to hearing. 
 
@@ -19,7 +22,10 @@ The second thing is about access, and this is the part I care about most. About 
 
 So the argument I actually believe is pretty simple. Most home gardens don't fail because people don't care. They fail because people forget to water, or overwater, or go on a trip, or just don't know what a plant needs. If you can automate that part and make it cheap, you take away the main reason gardens die. This is what Blubot solves.
 
-Picking Strawberries with my grandmother
+<figure>
+  <img src="{{ site.baseurl }}/images/picking-strawberries.jpeg" alt="Picking strawberries">
+  <figcaption>Picking Strawberries with my grandmother</figcaption>
+</figure>
 
 **The part I need to be honest about**
 
@@ -33,7 +39,10 @@ I also read that [community gardens, and even new grocery stores, don't really s
 
 And I know where I'm positioned while I write this. I'm a first-generation college student from the Bay Area building robots. I'm close enough to this problem to feel it in my own family, but I also have enough resources to spend a year and a whole crowdfunding campaign trying to solve it. Both of those things are true at the same time.
 
-Tightening some screws
+<figure>
+  <img src="{{ site.baseurl }}/images/working-on-z-axis.jpeg" alt="Tigheting some screws">
+  <figcaption>Tigheting some screws</figcaption>
+</figure>
 
 **So why keep going?**
 
@@ -46,6 +55,8 @@ So I try to think of Blubot as three things at once. It's a proof that precision
 A robot isn't going to fix the food system. But making good food a little easier to grow, and sharing exactly how I did it, is one real thing I can do about a problem this big. I'm going to keep honestly documenting the wins and losses.
 
 Keep Growing!
+
+<hr>
 
 **Works Cited**
 
