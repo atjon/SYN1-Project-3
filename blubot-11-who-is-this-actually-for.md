@@ -40,7 +40,7 @@ I also read that [community gardens, and even new grocery stores, don't really s
 And I know where I'm positioned while I write this. I'm a first-generation college student from the Bay Area building robots. I'm close enough to this problem to feel it in my own family, but I also have enough resources to spend a year and a whole crowdfunding campaign trying to solve it. Both of those things are true at the same time.
 
 <figure>
-  <img src="{{ site.baseurl }}/images/working%20on%20z-axis.jpeg" alt="Tigheting some screws">
+  <img src="{{ site.baseurl }}/images/working-on-z-axis.jpeg" alt="Tigheting some screws">
   <figcaption>Tigheting some screws</figcaption>
 </figure>
 
