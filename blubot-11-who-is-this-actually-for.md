@@ -1,16 +1,13 @@
 ---
-layout: default
+
+## layout: default
 title: "Blubot 11: Who Is This Actually For?"
----
 
 This is the eleventh post in the series about my project, Blubot, a robot that takes care of your raised bed for you. With Blubot, I'm on a mission to make gardening easy, space efficient, and low cost, so anyone, anywhere can start a garden. Check out the [table of contents here](https://codehobbits.com/bluebot-by-aidan-tjon-2025/).
 
 This post is a little different from the others. For the last ten posts, I've shown you how I built Blubot, from the first measurements to building a team to the week I spent calibrating the z-axis. In this one, I want to step back and talk about why I built it, and be honest about what it actually does and doesn't do.
 
-<figure>
-  <img src="{{ site.baseurl }}/images/green-plant-on-robot.png" alt="Raised bed before construction">
-  <figcaption>Source: my backyard</figcaption>
-</figure>
+Source: my backyard
 
 It's been almost a full two years since I started Blubot. Across those two years, my voice, outlook, and experiences have changed drastically. I've tried to emulate my past voice here in this post, to keep it consistent with what you are used to hearing. 
 
@@ -18,14 +15,11 @@ It's been almost a full two years since I started Blubot. Across those two years
 
 One thing I've learned is about water. Farming uses a huge chunk of the world's freshwater, [around 70%](https://ourworldindata.org/water-use-stress), and a lot of it gets wasted through evaporation, runoff, and watering soil that didn't need it. Big farms deal with this using precision irrigation, which means giving each plant exactly the water it needs and nothing extra. Systems like that can [cut water use by 30 to 70%](https://news.mit.edu/2017/design-cuts-costs-energy-drip-irrigation-0420). When I think about it, that's basically what Blubot does, just in a backyard. It checks the soil and waters one spot at a time instead of soaking the whole bed. It's a tiny version of something farms spend a lot of money on.
 
-The second thing is about access, and this is the part I care about most. About [39 million people in the US](https://www.aecf.org/blog/food-deserts-in-america) live in areas where the nearest grocery store is really far away. Growing food at home doesn't fix that by itself, but it helps more than I expected. One [study in San Jose](https://www.universityofcalifornia.edu/news/urban-gardens-improve-food-security) found that people with a home or community garden roughly doubled how many vegetables they ate. A lot of them grew vegetables they couldn't find nearby, like bok choy and bitter melon. Growing up in a Chinese household, the right ingredients weren't always easy to find at the store. Home gardens also give people a [backup when food prices jump or supply chains get disrupted](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2023.1138558/full), which is something that keeps getting more common.
+The second thing is about access, and this is the part I care about most. About [39 million people in the US](https://www.aecf.org/blog/food-deserts-in-america) live in areas where the nearest grocery store is really far away. Growing food at home doesn't fix that by itself, but it helps more than I expected. One [study in San Jose](https://californiaagriculture.org/article/108832-community-and-home-gardens-increase-vegetable-intake-and-food-security-of-residents-in-san-jose-california) found that people with a home or community garden roughly doubled how many vegetables they ate. A lot of them grew vegetables they couldn't find nearby, like bok choy and bitter melon. Growing up in a Chinese household, the right ingredients weren't always easy to find at the store. Home gardens also give people a [backup when food prices jump or supply chains get disrupted](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2023.1138558/full), which is something that keeps getting more common.
 
 So the argument I actually believe is pretty simple. Most home gardens don't fail because people don't care. They fail because people forget to water, or overwater, or go on a trip, or just don't know what a plant needs. If you can automate that part and make it cheap, you take away the main reason gardens die. This is what Blubot solves.
 
-<figure>
-  <img src="{{ site.baseurl }}/images/picking-strawberries.jpeg" alt="Picking strawberries">
-  <figcaption>Picking Strawberries with my grandmother</figcaption>
-</figure>
+Picking Strawberries with my grandmother
 
 **The part I need to be honest about**
 
@@ -39,10 +33,7 @@ I also read that [community gardens, and even new grocery stores, don't really s
 
 And I know where I'm positioned while I write this. I'm a first-generation college student from the Bay Area building robots. I'm close enough to this problem to feel it in my own family, but I also have enough resources to spend a year and a whole crowdfunding campaign trying to solve it. Both of those things are true at the same time.
 
-<figure>
-  <img src="{{ site.baseurl }}/images/working-on-z-axis.jpeg" alt="Tigheting some screws">
-  <figcaption>Tigheting some screws</figcaption>
-</figure>
+Tightening some screws
 
 **So why keep going?**
 
@@ -56,7 +47,7 @@ A robot isn't going to fix the food system. But making good food a little easier
 
 Keep Growing!
 
-<hr>
+---
 
 **Works Cited**
 
