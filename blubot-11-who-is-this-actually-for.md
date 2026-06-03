@@ -1,8 +1,8 @@
 ---
 
-## layout: default
+layout: default
 title: "Blubot 11: Who Is This Actually For?"
-
+---
 This is the eleventh post in the series about my project, Blubot, a robot that takes care of your raised bed for you. With Blubot, I'm on a mission to make gardening easy, space efficient, and low cost, so anyone, anywhere can start a garden. Check out the [table of contents here](https://codehobbits.com/bluebot-by-aidan-tjon-2025/).
 
 This post is a little different from the others. For the last ten posts, I've shown you how I built Blubot, from the first measurements to building a team to the week I spent calibrating the z-axis. In this one, I want to step back and talk about why I built it, and be honest about what it actually does and doesn't do.
