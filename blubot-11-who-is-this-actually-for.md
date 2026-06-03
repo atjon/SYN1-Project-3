@@ -7,7 +7,7 @@ This is the eleventh post in the series about my project, Blubot, a robot that t
 
 This post is a little different from the others. For the last ten posts, I've shown you how I built Blubot, from the first measurements to building a team to the week I spent calibrating the z-axis. In this one, I want to step back and talk about why I built it, and be honest about what it actually does and doesn't do.
 
-Source: my backyard
+![A green plant growing in the Blubot raised bed]({{ site.baseurl }}/images/green-plant-on-robot.png)
 
 It's been almost a full two years since I started Blubot. Across those two years, my voice, outlook, and experiences have changed drastically. I've tried to emulate my past voice here in this post, to keep it consistent with what you are used to hearing. 
 
@@ -19,7 +19,7 @@ The second thing is about access, and this is the part I care about most. About 
 
 So the argument I actually believe is pretty simple. Most home gardens don't fail because people don't care. They fail because people forget to water, or overwater, or go on a trip, or just don't know what a plant needs. If you can automate that part and make it cheap, you take away the main reason gardens die. This is what Blubot solves.
 
-Picking Strawberries with my grandmother
+![Picking strawberries with my grandmother]({{ site.baseurl }}/images/picking-strawberries.jpeg)
 
 **The part I need to be honest about**
 
@@ -31,7 +31,7 @@ In addition, I also read that [community gardens, and even new grocery stores, d
 
 With all that being said, I know where I'm positioned while I write this. I'm a first-generation college student from the Bay Area building robots. I'm close enough to this problem to feel it in my own family, but I also have enough resources to spend a year and a whole crowdfunding campaign trying to solve it. Both of those things are true at the same time.
 
-Tigheting some screws
+![Tightening some screws on the z-axis]({{ site.baseurl }}/images/working-on-z-axis.jpeg)
 
 **So why keep going?**
 
